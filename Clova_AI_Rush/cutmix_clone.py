@@ -1,4 +1,6 @@
+""" Copyright (c) 2019-present NAVER Corp."""
 """ source: https://github.com/clovaai/CutMix-PyTorch """
+
 
 def rand_bbox(size, lam):
     W = size[2]

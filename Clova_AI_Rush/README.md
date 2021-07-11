@@ -83,7 +83,7 @@ loss & lr:
 
 
 ## 대회 결과 및 피드백, 느낀점
-<img src="https://user-images.githubusercontent.com/59414764/125181008-a7bc1080-e23b-11eb-9902-0d673efa0458.png" width=300 height=700/>
+<img src="https://user-images.githubusercontent.com/59414764/125181008-a7bc1080-e23b-11eb-9902-0d673efa0458.png" width=500 height=700/>
 
 아쉽게도 0.0046점 차이로 2라운드에 진출하지 못했습니다. (1등은 0.9606점) 실험해보지 못한 것이 많아 많이 아쉽게 느껴지네요. PyTorch를 제대로 이해하고 시작했다면 1등을 할 수 있었을까요?
 0.9333 점수가 높아보이긴 하지만, 실제 대회에서는 0.001점도 매우 크다고 들었습니다. 아직 많이 부족한 점수일 지도 모르겠네요.
